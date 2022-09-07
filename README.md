@@ -1,4 +1,6 @@
-# unplugin-solid-components
+# unplugin-solid-components WIP
+
+## :hammer_and_wrench: under construction
 
 [![NPM version](https://img.shields.io/npm/v/unplugin-solid-components?color=a1b858&label=)](https://www.npmjs.com/package/unplugin-solid-components)
 
