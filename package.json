@@ -1,0 +1,18 @@
+{
+  "name": "unplugin-solid-components",
+  "version": "0.0.1",
+  "description": "Components auto importing for SolidJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arbust908 <arbust908@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Arbust908/unplugin-solid-components",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arbust908/unplugin-solid-components"
+  },
+  "bugs": "https://github.com/Arbust908/unplugin-solid-components/issues"
+}
